@@ -19,9 +19,6 @@ N_Guesses: the number of guesses allowed (default: 10)
 How to Run
 To run the game, simply execute the main() function in the code. The game will prompt the user to input their guesses and provide feedback accordingly.
 
-Contributing
-Contributions are always welcome! If you would like to contribute to this project, please see the CONTRIBUTING.md file for more information.
-
 License
 This project is licensed under the MIT License.
 
